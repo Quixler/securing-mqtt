@@ -1,0 +1,6 @@
+# Ignore sensitive files
+acl/passwords
+certs/*.key
+certs/*.csr
+logs/
+

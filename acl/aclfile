@@ -1,0 +1,8 @@
+user user_demo
+topic read demo/+/read
+topic write demo/+/write
+
+user user_admin
+topic read #
+topic write admin/#
+topic write demo/+/write
