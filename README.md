@@ -155,8 +155,8 @@ mosquitto -h
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/mqtt-security-audit.git
-cd mqtt-security-audit
+git clone https://github.com/oussamaelmessaoudi/securing-mqtt.git
+cd securing-mqtt
 ```
 
 ### 2. Initial Setup (Vulnerable State)
